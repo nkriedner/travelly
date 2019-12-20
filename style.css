@@ -88,6 +88,13 @@ nav ul {
   list-style: none;
 }
 
+nav h1 a:hover,
+nav ul a:hover,
+footer a:hover,
+footer a img:hover {
+  color: rgba(255, 255, 255, 0.705);
+}
+
 #logo {
   flex: 2 1 40rem;
   font-family: "Pattaya", sans-serif;
