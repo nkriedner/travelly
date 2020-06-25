@@ -1,3 +1,3 @@
 # travelly
 
-Website project 1 from Dev Ed's "Creative HTML & CSS" course
+Website-Project I had to build in Dev End's "Creative HTML & CSS" - using HML & CSS.
