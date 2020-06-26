@@ -1,3 +1,3 @@
-# travelly - HTML & CSS Example Website
+# travelly - HTML & CSS example website
 
-Website-Project I had to build in Dev End's "Creative HTML & CSS" - using HML & CSS.
+Website-Project for Dev End's "Creative HTML & CSS" course - using HML & CSS.
